@@ -1,0 +1,11 @@
+D:\DOANLTW\DoAn_FoodDio\Source\bin\Debug\Source.exe.config
+D:\DOANLTW\DoAn_FoodDio\Source\bin\Debug\Source.exe
+D:\DOANLTW\DoAn_FoodDio\Source\bin\Debug\Source.pdb
+D:\DOANLTW\DoAn_FoodDio\Source\obj\Debug\Source.csproj.AssemblyReference.cache
+D:\DOANLTW\DoAn_FoodDio\Source\obj\Debug\Source.ManHinhChinh.resources
+D:\DOANLTW\DoAn_FoodDio\Source\obj\Debug\Source.Properties.Resources.resources
+D:\DOANLTW\DoAn_FoodDio\Source\obj\Debug\Source.csproj.GenerateResource.cache
+D:\DOANLTW\DoAn_FoodDio\Source\obj\Debug\Source.csproj.CoreCompileInputs.cache
+D:\DOANLTW\DoAn_FoodDio\Source\obj\Debug\Source.exe
+D:\DOANLTW\DoAn_FoodDio\Source\obj\Debug\Source.pdb
+D:\DOANLTW\DoAn_FoodDio\Source\obj\Debug\Source.exe.config

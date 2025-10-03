@@ -16,5 +16,11 @@ namespace Source
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            Form frm = new frm_mhc();
+            frm.Show();
+        }
     }
 }

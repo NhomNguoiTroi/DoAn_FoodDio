@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace Source
 {
-    public partial class ManHinhChinh : Form
+    public partial class frm_mhc : Form
     {
-        public ManHinhChinh()
+        public frm_mhc()
         {
             InitializeComponent();
+        }
+
+        private void dgvDH_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void frm_mhc_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
