@@ -2,7 +2,6 @@ D:\DOANLTW\DoAn_FoodDio\Source\bin\x64\Release\Source.exe.config
 D:\DOANLTW\DoAn_FoodDio\Source\bin\x64\Release\Source.exe
 D:\DOANLTW\DoAn_FoodDio\Source\bin\x64\Release\Source.pdb
 D:\DOANLTW\DoAn_FoodDio\Source\obj\x64\Release\Source.csproj.AssemblyReference.cache
-D:\DOANLTW\DoAn_FoodDio\Source\obj\x64\Release\Source.Form1.resources
 D:\DOANLTW\DoAn_FoodDio\Source\obj\x64\Release\Source.frm_mhc.resources
 D:\DOANLTW\DoAn_FoodDio\Source\obj\x64\Release\Source.Properties.Resources.resources
 D:\DOANLTW\DoAn_FoodDio\Source\obj\x64\Release\Source.csproj.GenerateResource.cache
@@ -10,3 +9,9 @@ D:\DOANLTW\DoAn_FoodDio\Source\obj\x64\Release\Source.csproj.CoreCompileInputs.c
 D:\DOANLTW\DoAn_FoodDio\Source\obj\x64\Release\Source.exe
 D:\DOANLTW\DoAn_FoodDio\Source\obj\x64\Release\Source.pdb
 D:\DOANLTW\DoAn_FoodDio\Source\obj\x64\Release\Source.exe.config
+D:\DOANLTW\DoAn_FoodDio\Source\obj\x64\Release\Source.Form1.resources
+D:\DOANLTW\DoAn_FoodDio\Source\obj\x64\Release\QLQUANAN.fAdmin.resources
+D:\DOANLTW\DoAn_FoodDio\Source\obj\x64\Release\QLQUANAN.fThongTinTaiKhoan.resources
+D:\DOANLTW\DoAn_FoodDio\Source\obj\x64\Release\QLQUANAN.FLogin.resources
+D:\DOANLTW\DoAn_FoodDio\Source\obj\x64\Release\QLQUANAN.fQLQA.resources
+D:\DOANLTW\DoAn_FoodDio\Source\obj\x64\Release\QLQUANAN.fThongTin.resources

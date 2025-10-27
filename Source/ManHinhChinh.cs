@@ -15,6 +15,7 @@ namespace Source
         public frm_mhc()
         {
             InitializeComponent();
+            
         }
 
         private void dgvDH_CellContentClick(object sender, DataGridViewCellEventArgs e)
@@ -24,7 +25,6 @@ namespace Source
 
         private void frm_mhc_Load(object sender, EventArgs e)
         {
-
         }
     }
 }
