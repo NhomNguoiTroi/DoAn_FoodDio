@@ -1,0 +1,52 @@
+D:\DOANLTW\Soucre Code.GUI\bin\Debug\Soucre Code.GUI.exe.config
+D:\DOANLTW\Soucre Code.GUI\bin\Debug\Soucre Code.GUI.exe
+D:\DOANLTW\Soucre Code.GUI\bin\Debug\Soucre Code.GUI.pdb
+D:\DOANLTW\Soucre Code.GUI\obj\Debug\Soucre Code.GUI.csproj.AssemblyReference.cache
+D:\DOANLTW\Soucre Code.GUI\obj\Debug\Soucre_Code.GUI.Properties.Resources.resources
+D:\DOANLTW\Soucre Code.GUI\obj\Debug\Soucre Code.GUI.csproj.GenerateResource.cache
+D:\DOANLTW\Soucre Code.GUI\obj\Debug\Soucre Code.GUI.csproj.CoreCompileInputs.cache
+D:\DOANLTW\Soucre Code.GUI\obj\Debug\Soucre Code.GUI.exe
+D:\DOANLTW\Soucre Code.GUI\obj\Debug\Soucre Code.GUI.pdb
+D:\DOANLTW\Soucre Code.GUI\bin\Debug\EntityFramework.dll
+D:\DOANLTW\Soucre Code.GUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\DOANLTW\Soucre Code.GUI\bin\Debug\Source Code.BUS.dll
+D:\DOANLTW\Soucre Code.GUI\bin\Debug\Source Code.DAL.dll
+D:\DOANLTW\Soucre Code.GUI\bin\Debug\Source Code.BUS.pdb
+D:\DOANLTW\Soucre Code.GUI\bin\Debug\Source Code.BUS.dll.config
+D:\DOANLTW\Soucre Code.GUI\bin\Debug\Source Code.DAL.pdb
+D:\DOANLTW\Soucre Code.GUI\bin\Debug\Source Code.DAL.dll.config
+D:\DOANLTW\Soucre Code.GUI\bin\Debug\EntityFramework.xml
+D:\DOANLTW\Soucre Code.GUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\DOANLTW\Soucre Code.GUI\obj\Debug\Soucre Code.GUI.exe.config
+D:\DOANLTW\Soucre Code.GUI\obj\Debug\Soucre_Code.GUI.fAdmin.resources
+D:\DOANLTW\Soucre Code.GUI\obj\Debug\Soucre_Code.GUI.fThongTinTaiKhoan.resources
+D:\DOANLTW\Soucre Code.GUI\obj\Debug\Soucre_Code.GUI.FLogin.resources
+D:\DOANLTW\Soucre Code.GUI\obj\Debug\Soucre_Code.GUI.fQLQA.resources
+D:\DOANLTW\Soucre Code.GUI\obj\Debug\Soucre_Code.GUI.fThongTin.resources
+D:\DOANLTW\Soucre Code.GUI\obj\Debug\Soucre C.C6EA6FA4.Up2Date
+D:\DOANLTW\FOODIO\Soucre Code.GUI\bin\Debug\Soucre Code.GUI.exe.config
+D:\DOANLTW\FOODIO\Soucre Code.GUI\bin\Debug\Soucre Code.GUI.exe
+D:\DOANLTW\FOODIO\Soucre Code.GUI\bin\Debug\Soucre Code.GUI.pdb
+D:\DOANLTW\FOODIO\Soucre Code.GUI\bin\Debug\EntityFramework.dll
+D:\DOANLTW\FOODIO\Soucre Code.GUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\DOANLTW\FOODIO\Soucre Code.GUI\bin\Debug\Source Code.BUS.dll
+D:\DOANLTW\FOODIO\Soucre Code.GUI\bin\Debug\Source Code.DAL.dll
+D:\DOANLTW\FOODIO\Soucre Code.GUI\bin\Debug\Source Code.BUS.pdb
+D:\DOANLTW\FOODIO\Soucre Code.GUI\bin\Debug\Source Code.BUS.dll.config
+D:\DOANLTW\FOODIO\Soucre Code.GUI\bin\Debug\Source Code.DAL.pdb
+D:\DOANLTW\FOODIO\Soucre Code.GUI\bin\Debug\Source Code.DAL.dll.config
+D:\DOANLTW\FOODIO\Soucre Code.GUI\bin\Debug\EntityFramework.xml
+D:\DOANLTW\FOODIO\Soucre Code.GUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\DOANLTW\FOODIO\Soucre Code.GUI\obj\Debug\Soucre Code.GUI.csproj.AssemblyReference.cache
+D:\DOANLTW\FOODIO\Soucre Code.GUI\obj\Debug\Soucre Code.GUI.exe.config
+D:\DOANLTW\FOODIO\Soucre Code.GUI\obj\Debug\Soucre_Code.GUI.fAdmin.resources
+D:\DOANLTW\FOODIO\Soucre Code.GUI\obj\Debug\Soucre_Code.GUI.fThongTinTaiKhoan.resources
+D:\DOANLTW\FOODIO\Soucre Code.GUI\obj\Debug\Soucre_Code.GUI.FLogin.resources
+D:\DOANLTW\FOODIO\Soucre Code.GUI\obj\Debug\Soucre_Code.GUI.fQLQA.resources
+D:\DOANLTW\FOODIO\Soucre Code.GUI\obj\Debug\Soucre_Code.GUI.Properties.Resources.resources
+D:\DOANLTW\FOODIO\Soucre Code.GUI\obj\Debug\Soucre_Code.GUI.fThongTin.resources
+D:\DOANLTW\FOODIO\Soucre Code.GUI\obj\Debug\Soucre Code.GUI.csproj.GenerateResource.cache
+D:\DOANLTW\FOODIO\Soucre Code.GUI\obj\Debug\Soucre Code.GUI.csproj.CoreCompileInputs.cache
+D:\DOANLTW\FOODIO\Soucre Code.GUI\obj\Debug\Soucre C.C6EA6FA4.Up2Date
+D:\DOANLTW\FOODIO\Soucre Code.GUI\obj\Debug\Soucre Code.GUI.exe
+D:\DOANLTW\FOODIO\Soucre Code.GUI\obj\Debug\Soucre Code.GUI.pdb
